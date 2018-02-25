@@ -4,6 +4,6 @@
 
 ## Modules
 | File        | Comment                           |
-|-------------+-----------------------------------|
+|-------------|-----------------------------------|
 | nor2        | 2-input NOR/OR                    |
 | tb_ringosc9 | testbench 9 stage ring-oscillator |
